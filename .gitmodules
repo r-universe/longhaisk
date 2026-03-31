@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "BCBCSF"]
+	path = BCBCSF
+	url = https://github.com/cran/BCBCSF
 [submodule "HTLR"]
 	path = HTLR
 	url = https://github.com/longhaisk/htlr
